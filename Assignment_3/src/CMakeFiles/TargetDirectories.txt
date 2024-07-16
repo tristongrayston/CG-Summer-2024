@@ -1,0 +1,3 @@
+/mnt/c/Users/grays/OneDrive/Desktop/School/csc305/Assignment_3/src/CMakeFiles/assignment3.dir
+/mnt/c/Users/grays/OneDrive/Desktop/School/csc305/Assignment_3/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/grays/OneDrive/Desktop/School/csc305/Assignment_3/src/CMakeFiles/rebuild_cache.dir
